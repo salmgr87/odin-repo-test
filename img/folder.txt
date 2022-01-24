@@ -1,0 +1,1 @@
+I don't have administrative rights on this laptop, so I can't use Git. I'm testing out using the browser to commit to GitHub.
